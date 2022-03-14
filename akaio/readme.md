@@ -1,0 +1,1 @@
+args compatible with AKAIO: `bdftopcf -p1 -l -L <filename>.bdf -o <filename>.pcf`
